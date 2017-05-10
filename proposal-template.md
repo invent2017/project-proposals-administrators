@@ -2,28 +2,27 @@
 ## Super Catchy Slogan
 
 Group members: 
-* Apple
-* Banana
-* Char Kway Teow
+* Li Bozhao
+* Cai Jiaming
 
 Feel free to change the headers, but do address the points raised. 
 
 ## Audience
-Whose problems are we trying to solve?
+People who wants to help ice cubes in their drinks on the go.
 
 ## Problems
-What problems are people facing?
-How are these already being solved?
+Hot weather, drinks are not cooling :(
+Portable fridge, convenient shops where cool drinks can be bought.
 
 ## Solution
-What’s your solution, in one sentence? 
+Portable, manual ice maker. 
 Can you find an analogy to describe it? 
 
 ## Assumptions
 What assumptions are we making that the project depends on?
 
 ## Unique Selling Point
-Our version will succeed because
+Our version will succeed because it is portable, easy-to-use and cool.
 
 ## Competitors
 What competitors are there? List 5. Surely you can google 5.
