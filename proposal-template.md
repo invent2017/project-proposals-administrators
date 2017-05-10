@@ -8,7 +8,7 @@ Group members:
 Feel free to change the headers, but do address the points raised. 
 
 ## Audience
-People who wants to help ice cubes in their drinks on the go.
+People who wants to heve ice cubes in their drinks on the go.
 
 ## Problems
 Hot weather, drinks are not cooling :(
