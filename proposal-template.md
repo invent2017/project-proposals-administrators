@@ -32,9 +32,13 @@ What assumptions are we making that the project depends on?
 
 ## Unique Selling Point
 Fast
+
 Portable
+
 Cheap
+
 Reliable
+
 Completely Green
 
 ## Competitors
@@ -44,3 +48,7 @@ Completely Green
 4. Ice packs 
 5. Koozie
 6. Pot-in-pot refrigerator
+
+Theirs are expensive while ours is cheap.
+Theirs need large energy input while ours do not.
+Theirs are bulky while ours are portable and light-weight
