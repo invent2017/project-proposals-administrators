@@ -8,11 +8,11 @@ Group members:
 
 
 ## Audience
-providing portable electricity-free cooling device to third world countries
+Providing portable electricity-free cooling device to third world countries
 
-giving you a cup of ice drink on a hot summer day
+Giving you a cup of ice drink on a hot summer day
 
-give you some emergency treatment after a sports injury
+Giving you  emergency treatment after a sports injury
 
 ## Problems
 Electricity shortage while fridge is needed to store necessities like medicines
