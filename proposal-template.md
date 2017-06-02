@@ -1,18 +1,22 @@
-# Ridiculously Catchy Title
-## Super Catchy Slogan
+# Be ICEMAN !
+## Make ice anywhere
 
 Group members: 
 * Li Bozhao
 * Cai Jiaming
 
-Feel free to change the headers, but do address the points raised. 
+
 
 ## Audience
-People who wants to heve ice cubes in their drinks on the go.
+providing portable electricity-free cooling device to third world countries
+giving you a cup of ice drink on a hot summer day
+give you some emergency treatment after a sports injury
 
 ## Problems
-Hot weather, drinks are not cooling :(
-Portable fridge, convenient shops where cool drinks can be bought.
+Electricity shortage while fridge is needed to store necessities like medicines
+No ice at hand when you want some ice drinks
+Injured when doing sports/hiking in the field but there is no ice in the first aid pack
+
 
 ## Solution
 Portable, manual ice maker. 
@@ -22,8 +26,12 @@ Can you find an analogy to describe it?
 What assumptions are we making that the project depends on?
 
 ## Unique Selling Point
-Our version will succeed because it is portable, easy-to-use and cool.
+FastPortableCheapReliableCompletely Green
 
 ## Competitors
-What competitors are there? List 5. Surely you can google 5.
-Why are we better or different?
+1. Portable Freezer
+2. Anti-griddle
+3. Insulated cool containters 
+4. Ice packs 
+5. Koozie
+6. Pot-in-pot refrigerator
