@@ -9,24 +9,33 @@ Group members:
 
 ## Audience
 providing portable electricity-free cooling device to third world countries
+
 giving you a cup of ice drink on a hot summer day
+
 give you some emergency treatment after a sports injury
 
 ## Problems
 Electricity shortage while fridge is needed to store necessities like medicines
+
 No ice at hand when you want some ice drinks
+
 Injured when doing sports/hiking in the field but there is no ice in the first aid pack
 
 
 ## Solution
 Portable, manual ice maker. 
+
 Can you find an analogy to describe it? 
 
 ## Assumptions
 What assumptions are we making that the project depends on?
 
 ## Unique Selling Point
-FastPortableCheapReliableCompletely Green
+Fast
+Portable
+Cheap
+Reliable
+Completely Green
 
 ## Competitors
 1. Portable Freezer
